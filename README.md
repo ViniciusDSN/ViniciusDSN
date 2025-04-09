@@ -1,6 +1,6 @@
-### Olá 👋
+### Hi 👋
 
-- 📚 Estudante SATC há 12 anos
-- ⌨ Aprendendo linguagens como Java e Python 
-- 💻 Gosto de novas experiências e sempre busco aprender mais 
-- 🎮 Gosto de jogar em meu tempo livre 
+- 📚 Pursuing a degree in Computing Engineering
+- ⌨ Learning Web and Mobile Development
+- 💻 Looking forward to new experiences
+- 🎮 I like to play in my free time
