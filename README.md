@@ -1,7 +1,7 @@
 **Vinícius dos Santos Nascimento**
 ---
 
-Hey there! 👋 I'm Vinícius, a Computer Engineering student at UniSATC. My passion lies in exploring various facets of software development, from web technologies like JavaScript, CSS, and HTML to mobile app development using Flutter and React Native.
+Hey there! 👋 I'm Vinícius, a Computer Engineering student at UniSATC. My passion lies exploring software development in general, from web technologies like JavaScript, CSS, and HTML to mobile app development using Flutter and React Native.
 
 <img align="right" height="150" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif"  />
 
